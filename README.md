@@ -2,7 +2,7 @@ Direct and Indirect Welfare Chauvinism as Party Strategies
 ---
 
 ### Description and Data Sources
-Reproducibility material for _Direct and Indirect Welfare Chauvinism as Party Strategies: An Analysis of the Danish People’s Party_. 
+Reproducibility material for 'Direct and Indirect Welfare Chauvinism as Party Strategies: An Analysis of the Danish People’s Party', forthcoming in _Scandinavian Political Studies_. 
 
 The `analysis` folder contains all files required to reproduce the figures and information provided in the logistic regression table. The `prw.R` file requires `prw.csv` and estimate the models and create Figure 1. 
 
@@ -20,6 +20,10 @@ The `analysis` folder contains all files required to reproduce the figures and i
 - `prw.R` = R script used to conduct all analyses and produce figures
 - `prw.csv` = Reform data
 - `sessionInfo.txt` = Output from sessionInfo() in R
+
+##### `/figs/`
+
+- `figure1.png` = Figure 1
 
 ### Data: `prw.csv`
 
